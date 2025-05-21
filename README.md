@@ -20,7 +20,7 @@
 <br> <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemal6325&label=Profile%20views&color=0e75b6&style=flat" alt="hemal6325" /> </p> <br>
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hemal6325&theme=radical&no-frame=false&no-bg=false&margin-w=4) <br>
+![](https://github-profile-trophy.vercel.app/?username=hemal6325&theme=radical&no-frame=false&no-bg=false&margin-w=4) <br> <br>
 
 
 - 🔭 I’m currently working on **Web Projects**
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **rohejulislamhimal0099@gmail.com**
 
-- ⚡ Fun fact **I can write code on pen and paper 😆**
+- ⚡ Fun fact **I can write code on pen and paper 😆** <br>
 
 
 
