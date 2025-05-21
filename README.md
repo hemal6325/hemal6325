@@ -19,7 +19,7 @@
 
 <br> <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemal6325&label=Profile%20views&color=0e75b6&style=flat" alt="hemal6325" /> </p> <br>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hemal6325&theme=radical&no-frame=false&no-bg=false&margin-w=4) <br>
 
 
@@ -50,13 +50,17 @@
 </div>
 
 
-### 🔝 Top Contributed Repo
+
+# 🔝 Top Contributed Repo
 
 <div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=hemal6325&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
 
 ---
-![](https://visitcount.itsvg.in/api?id=hemal6325&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hemal6325&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+
 
 
